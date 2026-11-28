@@ -58,3 +58,36 @@
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Band News HD">
+    <display-name lang="pt">Band News HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band HD [Alter]">
+    <display-name lang="pt">Band HD [Alter]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="pt">BBC Earth</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pt">BBC World News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
