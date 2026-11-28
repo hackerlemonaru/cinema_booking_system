@@ -30,3 +30,31 @@
   </channel>
   <channel id="Arte 1">
     <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Aparecida">
+    <display-name lang="pt">Aparecida</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvaparecida.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News HD">
